@@ -1,7 +1,8 @@
 import "./App.css";
+import ProductsList from "./components/ProductsList";
 
 function App() {
-  return <div>App</div>;
+  return <ProductsList />;
 }
 
 export default App;
